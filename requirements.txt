@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+anthropic
+openai
+google-genai
+Pillow
+requests
+# Optional: Add specific versions if needed, e.g., google-genai>=0.8.0

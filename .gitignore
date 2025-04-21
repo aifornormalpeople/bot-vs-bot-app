@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Virtual environment folder (Common names)
+venv/
+.venv/
+
+# PyCharm specific files
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
